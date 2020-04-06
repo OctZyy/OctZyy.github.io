@@ -3,5 +3,24 @@
   
   
   
+  <entry>
+    <title>Hello world</title>
+    <link href="/2020/04/06/Hello-world/"/>
+    <url>/2020/04/06/Hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>终于搭好了自己的博客，以后要认真写博客了！</p><p>博客所用主题及详细介绍：<br><a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="noopener">https://github.com/fluid-dev/hexo-theme-fluid</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>杂谈</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
   
 </search>
